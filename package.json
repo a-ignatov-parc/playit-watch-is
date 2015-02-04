@@ -1,0 +1,27 @@
+{
+  "name": "playit-watch-is",
+  "version": "0.1.0",
+  "description": "Media plugin for playit cli utility",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-ignatov-parc/playit-watch-is.git"
+  },
+  "keywords": [
+    "playit",
+    "watch.is",
+    "plugin"
+  ],
+  "author": "Anton Ignatov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-ignatov-parc/playit-watch-is/issues"
+  },
+  "homepage": "https://github.com/a-ignatov-parc/playit-watch-is",
+  "dependencies": {
+    "jsdom": "~3.1.0",
+    "jquery": "~2.1.0",
+    "xml2js": "~0.4.0",
+    "request": "~2.51.0"
+  }
+}
